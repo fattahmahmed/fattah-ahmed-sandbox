@@ -1,0 +1,14 @@
+/Users/fattahahmed/fattah-ahmed-sandbox/projects/FibonacciApp/bin/Debug/net8.0/FibonacciApp
+/Users/fattahahmed/fattah-ahmed-sandbox/projects/FibonacciApp/bin/Debug/net8.0/FibonacciApp.deps.json
+/Users/fattahahmed/fattah-ahmed-sandbox/projects/FibonacciApp/bin/Debug/net8.0/FibonacciApp.runtimeconfig.json
+/Users/fattahahmed/fattah-ahmed-sandbox/projects/FibonacciApp/bin/Debug/net8.0/FibonacciApp.dll
+/Users/fattahahmed/fattah-ahmed-sandbox/projects/FibonacciApp/bin/Debug/net8.0/FibonacciApp.pdb
+/Users/fattahahmed/fattah-ahmed-sandbox/projects/FibonacciApp/obj/Debug/net8.0/FibonacciApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fattahahmed/fattah-ahmed-sandbox/projects/FibonacciApp/obj/Debug/net8.0/FibonacciApp.AssemblyInfoInputs.cache
+/Users/fattahahmed/fattah-ahmed-sandbox/projects/FibonacciApp/obj/Debug/net8.0/FibonacciApp.AssemblyInfo.cs
+/Users/fattahahmed/fattah-ahmed-sandbox/projects/FibonacciApp/obj/Debug/net8.0/FibonacciApp.csproj.CoreCompileInputs.cache
+/Users/fattahahmed/fattah-ahmed-sandbox/projects/FibonacciApp/obj/Debug/net8.0/FibonacciApp.dll
+/Users/fattahahmed/fattah-ahmed-sandbox/projects/FibonacciApp/obj/Debug/net8.0/refint/FibonacciApp.dll
+/Users/fattahahmed/fattah-ahmed-sandbox/projects/FibonacciApp/obj/Debug/net8.0/FibonacciApp.pdb
+/Users/fattahahmed/fattah-ahmed-sandbox/projects/FibonacciApp/obj/Debug/net8.0/FibonacciApp.genruntimeconfig.cache
+/Users/fattahahmed/fattah-ahmed-sandbox/projects/FibonacciApp/obj/Debug/net8.0/ref/FibonacciApp.dll
